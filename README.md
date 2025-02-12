@@ -40,8 +40,8 @@ The dataset used in this Power BI report includes HR records with details such a
 - Sentiment analysis of employee feedback.
 
 ## Author
-Ritik Ghoghari 
-ritikghoghari.ds@gmail.com.
+Ritik Ghoghari.
+ritikghoghari.ds@gmail.com
 
 ## License
 This project is for educational and analytical purposes. Feel free to use or modify it as needed.
