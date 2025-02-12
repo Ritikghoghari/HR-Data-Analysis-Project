@@ -25,6 +25,10 @@ The dataset used in this Power BI report includes HR records with details such a
 - **DAX (Data Analysis Expressions):** Used for advanced calculations and metrics.
 - **Power Query:** Data transformation and preprocessing.
 
+## Dashboard Screenshots
+![Presence Insights](./Screenshot%202025-02-12%20182244.png)
+![HR Data Analysis](./Screenshot%202025-02-12%20182310.png)
+
 ## How to Use
 1. Open the `.pbix` file in Power BI Desktop.
 2. Navigate through different report pages to explore insights.
@@ -36,8 +40,8 @@ The dataset used in this Power BI report includes HR records with details such a
 - Sentiment analysis of employee feedback.
 
 ## Author
-Ritik Ghoghari  
-ritikghoghari.ds@gmail.com
+Ritik Ghoghari 
+ritikghoghari.ds@gmail.com.
 
 ## License
 This project is for educational and analytical purposes. Feel free to use or modify it as needed.
